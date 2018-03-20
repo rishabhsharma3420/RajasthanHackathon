@@ -19,22 +19,22 @@ When it comes to food waste, there is no single organisation, no single entity t
 
 # Screenshots
 
+## Main Page
 ![alt text](https://github.com/rishabhsharma3420/RajasthanHackathon/blob/master/Desktop/final/Screen%20Shot%202018-03-20%20at%2010.38.15%20PM.png)
 
-## Main Page
-
-![alt text](https://github.com/rishabhsharma3420/RajasthanHackathon/blob/master/Desktop/final/Screen%20Shot%202018-03-20%20at%2010.38.25%20PM.png)
 
 ## Company Login
+![alt text](https://github.com/rishabhsharma3420/RajasthanHackathon/blob/master/Desktop/final/Screen%20Shot%202018-03-20%20at%2010.38.25%20PM.png)
 
-![alt text](https://github.com/rishabhsharma3420/RajasthanHackathon/blob/master/Desktop/final/Screen%20Shot%202018-03-20%20at%2010.38.39%20PM.png)
 
 ## Company Dashboard
+![alt text](https://github.com/rishabhsharma3420/RajasthanHackathon/blob/master/Desktop/final/Screen%20Shot%202018-03-20%20at%2010.38.39%20PM.png)
 
-![alt text](https://github.com/rishabhsharma3420/RajasthanHackathon/blob/master/Desktop/final/Screen%20Shot%202018-03-20%20at%2010.38.53%20PM.png)
 
 ## NGO Login
+![alt text](https://github.com/rishabhsharma3420/RajasthanHackathon/blob/master/Desktop/final/Screen%20Shot%202018-03-20%20at%2010.38.53%20PM.png)
 
-![alt text](https://github.com/rishabhsharma3420/RajasthanHackathon/blob/master/Desktop/final/Screen%20Shot%202018-03-20%20at%2010.39.01%20PM.png)
 
 ## NGO Dashboard
+![alt text](https://github.com/rishabhsharma3420/RajasthanHackathon/blob/master/Desktop/final/Screen%20Shot%202018-03-20%20at%2010.39.01%20PM.png)
+
