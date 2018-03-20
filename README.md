@@ -19,8 +19,8 @@ When it comes to food waste, there is no single organisation, no single entity t
 
 # Screenshots
 
-![alt text](https://ibb.co/iv6Mcx)
-![alt text](https://ibb.co/gUSSHx)
-![alt text](https://ibb.co/gFZ7Hx)
-![alt text](https://ibb.co/d3WyPc)
-![alt text](https://ibb.co/iTNiqH)
+![alt text](https://github.com/rishabhsharma3420/RajasthanHackathon/blob/master/Desktop/final/Screen%20Shot%202018-03-20%20at%2010.38.15%20PM.png)
+![alt text](https://github.com/rishabhsharma3420/RajasthanHackathon/blob/master/Desktop/final/Screen%20Shot%202018-03-20%20at%2010.38.25%20PM.png)
+![alt text](https://github.com/rishabhsharma3420/RajasthanHackathon/blob/master/Desktop/final/Screen%20Shot%202018-03-20%20at%2010.38.39%20PM.png)
+![alt text](https://github.com/rishabhsharma3420/RajasthanHackathon/blob/master/Desktop/final/Screen%20Shot%202018-03-20%20at%2010.38.53%20PM.png)
+![alt text](https://github.com/rishabhsharma3420/RajasthanHackathon/blob/master/Desktop/final/Screen%20Shot%202018-03-20%20at%2010.39.01%20PM.png)
