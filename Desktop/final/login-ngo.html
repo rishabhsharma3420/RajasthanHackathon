@@ -1,0 +1,133 @@
+
+<!DOCTYPE html lang="en">
+<html>
+    
+<head>
+    <title>WC Sustanability</title>
+    <meta charset="utf-8">
+    <meta name="author" content="uhateme">
+    <meta name="description" content="food waste reduction via communication">
+    <meta name="keywords" content="food,waste,communication">
+    <meta name="viewport" content="width=device-width">
+    <style>
+        body
+        {
+            margin: 0;
+            padding: 0;
+            background: url(images/ngo.jpg);
+            background-size: cover;
+            font-family: sans-serif;
+        }
+        .loginBox
+        {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            width: 350px;
+            height: 420px;
+            padding: 80px 40px;
+            box-sizing: border-box;
+            background: rgba(0,0,0,.5);
+        }
+        .user
+        {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            overflow: hidden;
+            position: absolute;
+            top: calc(-100px/2);
+            left: calc(50% - 50px);
+        }
+        h2
+        {
+            margin: 0;
+            padding: 0 0 20px;
+            color: #efed40;
+            text-align: center;
+        }
+        .loginBox p
+        {
+            margin: 0;
+            padding: 0;
+            font-weight: bold;
+            color: #fff;
+        }
+        .loginBox input
+        {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        .loginBox input[type="text"],
+        .loginBox input[type="password"]
+        {
+            border: none;
+            border-bottom: 1px solid #fff;
+            background: transparent;
+            outline: none;
+            height: 40px;
+            color: #fff;
+            font-size: 16px;
+        }
+        ::placeholder
+        {
+            color: rgba(255,255,255,.5);
+        }
+        .loginBox input[type="submit"]
+        {
+            border: none;
+            outline: none;
+            height: 40px;
+            color: #fff;
+            font-size: 16px;
+            background: #ff267e;
+            cursor: pointer;
+            border-radius: 20px;
+        }
+        .loginBox input[type="submit"]:hover
+        {
+            background: #efed40;
+            color: #262626;
+        }
+        .loginBox a
+        {
+            color: #fff;
+            font-size: 14px;
+            font-weight: bold;
+            text-decoration: none;
+        }
+        i {
+            border: solid black;
+            border-width: 0 3px 3px 0;
+            display: inline-block;
+            padding: 3px;
+        }
+
+
+        .left {
+            transform: rotate(135deg);
+            -webkit-transform: rotate(135deg);
+        }
+
+    </style>
+</head>
+    
+<body>
+    <div class="loginBox">
+        <img src="images/user.png" class="user">
+        <h2>NGO's Log In</h2>
+        <form action="ngo-dashboard.html">
+            <p>NGO User Id</p>
+            <input type="text" name="" placeholder="Enter User Id">
+            <p>Password</p>
+            <input type="password" name="" placeholder="••••••">
+            <input type="submit" name="" value="Sign In">
+            <a href="#">Forget Password</a><br>
+            <a href="home.html"><p>Go Back: <i class="arrow left"></i></p></a>
+            
+        </form>
+    </div>
+</body>
+    
+</html>
