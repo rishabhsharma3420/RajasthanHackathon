@@ -16,3 +16,11 @@ When it comes to food waste, there is no single organisation, no single entity t
 **WC Sustainability** is a website which bridges the gap between the big food giants like MC Donald's or Burger King where food is wasted in huge amounts and that food is put to a better use by **distributing the food to the poor and the needy people.** We make this noble cause possible by contacting various local NGO's near an outlet
 
 **WC SUSTAINABILITY** acts as a bridge between the **NGO's** and the **Food Giants** 
+
+# Screenshots
+
+![alt text](https://ibb.co/iv6Mcx)
+![alt text](https://ibb.co/gUSSHx)
+![alt text](https://ibb.co/gFZ7Hx)
+![alt text](https://ibb.co/d3WyPc)
+![alt text](https://ibb.co/iTNiqH)
